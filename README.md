@@ -109,7 +109,7 @@ If you'd like to connect or collaborate:
 
 - **GitHub:** [DevRehannaLP's GitHub](https://github.com/DevRehannaLP)  
 - **LinkedIn:** [DevRehannaLP's LinkedIn](https://www.linkedin.com/in/leon-9b33912b4/)  
-- **Email:** [DevRehannaLP's Email](mailto:rlportee83@gmail.com)-
+- **Email:** [DevRehannaLP's Email](mailto:rlportee83@gmail.com)
 
 # ⭐ Final Note  
 This portfolio is a living document — updated as I learn, practice, and grow in cybersecurity.

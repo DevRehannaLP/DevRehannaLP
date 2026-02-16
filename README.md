@@ -113,3 +113,12 @@ If you'd like to connect or collaborate:
 
 # ⭐ Final Note  
 This portfolio is a living document — updated as I learn, practice, and grow in cybersecurity.
+
+### 🌟 Support My Work
+
+Hi, I’m Rehanna — a workflow architect and aspiring cybersecurity professional.  
+I build clean, intentional systems and share structured learning resources with the community.
+
+Your sponsorship helps me continue creating high‑quality notes, tools, and cybersecurity projects.
+
+Thank you for supporting my journey.

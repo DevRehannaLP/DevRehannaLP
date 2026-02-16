@@ -48,13 +48,47 @@ My goal is to build real, hands‑on skills that prepare me for entry‑level ro
 # Repository Structure  
 
 ```
-/Google-Certificate-Notes
-/TryHackMe-Labs
-/SOC-Tools
-/Python-Scripts
-/Projects
-/Career-Prep
-/Schedules_and_Plans.md
+DevRehannaLP/
+│
+├── README.md
+│
+├── SOC-Tools/
+│     ├── Splunk.md
+│     ├── Wireshark.md
+│     ├── Zeek.md
+│     ├── Suricata.md
+│
+├── TryHackMe-Labs/
+│     ├── README.md
+│     ├── Intro_to_SIEM.md
+│     ├── Blue_Primer.md
+│     ├── Linux_Fundamentals.md
+│     ├── Windows_Fundamentals.md
+│     ├── SOC_Level_1.md
+│     ├── Network_Security_Monitoring.md
+│     ├── Malware_Analysis_Basics.md
+│     ├── Phishing_Analysis.md
+│     ├── Attack_Box_Investigation.md
+│     ├── Splunk_Basics.md
+│     ├── Wireshark_Traffic_Analysis.md
+│     ├── Zeek_Logs_Analysis.md
+│     ├── Suricata_Alerts.md
+│
+├── Career-Prep/
+│     ├── Resume.md
+│     ├── Cover_Letter_Template.md
+│     ├── Interview_Questions.md
+│     ├── Elevator_Pitch.md
+│     ├── Skills.md
+│     ├── Projects_Summary.md
+│
+└── Projects/
+      ├── Malware_Analysis/
+      │     └── README.md
+      ├── Network_Traffic_Investigation/
+      │     └── README.md
+      └── SOC_Alert_Analysis/
+            └── README.md
 ```
 
 Each folder contains a **single clickable file** with organized notes and content.

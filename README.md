@@ -1,59 +1,125 @@
-[<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=backend%2Cdevops%2Cpython%2Csql" alt="roadmap.sh"/></a>](https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark)
+# Rehanna's Cybersecurity Portfolio  
+A structured, beginner‑friendly portfolio documenting my journey into cybersecurity.  
+This repo includes hands‑on labs, investigations, notes, Python scripts, and long‑term study plans.
 
-## Introduction
+---
 
-This repository contains information about Reginald L Portee , also known as Rehanna L Portee DevRehannaLP. It is intended for personal use only and should not be shared with others. The purpose is to provide insights into my background, skills, and interests.
+# 📘 Table of Contents  
+- [About This Portfolio](#about-this-portfolio)  
+- [Current Focus](#current-focus)  
+- [Repository Structure](#repository-structure)  
+- [Featured Projects](#featured-projects)  
+- [Skills I'm Building](#skills-im-building)  
+- [Learning Roadmap](#learning-roadmap)  
+- [Contact](#contact)
 
-#Contents
+---
 
-## About Me: 
+# About This Portfolio  
+This repository documents my progress as I transition into cybersecurity.  
+It includes:
 
-Hello! I am currently a dedicated student, passionately working towards obtaining my education with a focus on data analysis. My academic journey is geared towards the ultimate goal of becoming a Data Scientist or Engineer. I am deeply interested in the power of data and how it can be harnessed to drive decision-making and innovation. I am committed to learning and developing the necessary skills to analyze, interpret, and manage data effectively. I am excited about the opportunities that lie ahead in my career path and am eager to contribute to the field of data science.
+- Google Cybersecurity Certificate notes  
+- TryHackMe labs and investigations  
+- SOC tool notes (Sentinel, Defender, Identity)  
+- Python automation scripts  
+- Portfolio projects  
+- Study schedules and long‑term plans  
+- Career preparation materials  
 
-# Skills: 
+My goal is to build real, hands‑on skills that prepare me for entry‑level roles such as:
 
-Certainly! I am currently honing my skills in SQL (Structured Query Language), a standard language for managing and manipulating databases. My proficiency in SQL includes creating and managing databases, writing queries to retrieve and manipulate data, and optimizing database performance. This expertise forms a crucial part of my skill set as a budding Data Scientist/Engineer, enabling me to handle, analyze, and derive insights from large datasets. I am committed to further developing these skills and staying abreast of the latest advancements in database technologies.
+- SOC Analyst I  
+- Junior Cybersecurity Analyst  
+- IT Security Technician  
+- Cybersecurity Apprentice  
 
-# Projects: 
+---
 
-Absolutely! I am actively engaged in a variety of projects that span across different domains of data science. These projects are meticulously organized and stored in various repositories. As I progress through each project, I ensure to update the status and document my findings and methodologies employed. Upon completion of each project, a comprehensive documentation is prepared detailing the objectives, methodologies, data used, findings, and implications of the project. This rigorous practice not only aids in keeping track of my learning journey but also serves as a testament to my dedication and skills in data science. It also provides potential employers or collaborators an insight into my capabilities and work ethic. Please note that the completed projects will be documented and made available at the appropriate time upon their completion.
+# Current Focus  
+- Google Cybersecurity Certificate  
+- TryHackMe SOC Level 1 Path  
+- Microsoft Sentinel Fundamentals  
+- Python for Security Automation  
+- Building a strong, organized portfolio  
 
-# Interests: 
+---
 
-As an aspiring data scientist, I am passionate about leveraging GitHub as a platform to document and share my learning journey. My interests span across various aspects of data science, including but not limited to:
+# Repository Structure  
 
-## Data Collection & Cleaning: 
+```
+/Google-Certificate-Notes
+/TryHackMe-Labs
+/SOC-Tools
+/Python-Scripts
+/Projects
+/Career-Prep
+/Schedules_and_Plans.md
+```
 
-I am proficient in using tools like pandas and DPLYR for data manipulation, and I am constantly honing my skills in data collection and cleaning to ensure the data I work with is accurate and reliable.
+Each folder contains a **single clickable file** with organized notes and content.
 
-## Descriptive Statistics & Data Visualization: 
+---
 
-I am currently learning descriptive statistics to better understand data distributions and patterns. I am also exploring data visualization techniques, including creating compelling visualizations for business growth
+# Featured Projects  
 
-## Statistical Analysis & Machine Learning: 
+### 🔍 Log Analysis Report  
+Investigated suspicious authentication activity using sample logs.  
+Skills: log analysis, pattern recognition, incident triage.
 
-I am keen on applying statistical analysis to interpret data and draw insights. Additionally, I am delving into the basics of machine learning to build predictive models and algorithms.
-## Big Data Technologies: 
+### 🛡️ SOC Investigations  
+Write‑ups from TryHackMe SOC Level 1 and Cyber Defense labs.  
+Skills: SIEM triage, alert correlation, threat detection.
 
-I am eager to learn more about big data technologies to handle and analyze large datasets effectively.
-My goal is to deepen my understanding of these areas and progressively build my expertise to become a competent data scientist. I believe in continuous learning and sharing knowledge, and I am excited about the opportunities and challenges that lie ahead in my data science journey.
+### 🐍 Python Log Parser  
+A beginner‑friendly script that reads and filters log files.  
+Skills: Python automation, file handling, keyword detection.
 
-## Contact: 
+### 🌐 Network Traffic Analysis  
+Analyzed packet captures using Wireshark.  
+Skills: protocol analysis, network investigation.
 
-[Email](rlportee83@gmail.com)
+---
 
-[My Linkedin Profile](https://www.linkedin.com/in/leon-9b33912b4/)
+# Skills I'm Building  
+- SIEM (Microsoft Sentinel)  
+- Defender for Endpoint  
+- Log analysis  
+- Incident response basics  
+- Networking fundamentals  
+- Linux fundamentals  
+- Python scripting  
+- Git & GitHub  
+- Documentation and reporting  
 
-[DevRehannaLP Data Analyst Studies](https://draw.roadmap.sh/6643f560662f1deb3445e822)
+---
 
-[Roadmap Profile](https://roadmap.sh/u/devleonxpx)
+# Learning Roadmap  
 
-## Usage
+### 📅 30‑Day Jumpstart  
+Environment setup, Google Certificate, Linux basics, first labs.
 
-Remember that this is for personal reference only.
+### 📅 90‑Day Starter Plan  
+Foundation → hands‑on labs → SOC tools → portfolio.
 
-## Disclaimer
+### 📅 6‑Month Plan  
+More labs, more projects, Sentinel, job applications.
 
-This README is not meant for the public to distribution.
+### 📅 12‑Month Roadmap  
+Portfolio growth, advanced topics, interviews, first role.
 
-🌟📝
+All plans are included in **Schedules_and_Plans.md**.
+
+---
+
+# Contact  
+If you'd like to connect or collaborate:
+
+- **GitHub:** [DevRehannaLP](https://github.com/DevRehannaLP)
+- **LinkedIn:** [Rehanna Portee](https://www.linkedin.com/in/leon-9b33912b4/)
+- **Email:** [rlportee83@gmail.com](mailto:rlportee83@gmail.com)
+
+---
+
+# ⭐ Final Note  
+This portfolio is a living document — updated as I learn, practice, and grow in cybersecurity.

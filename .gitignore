@@ -1,0 +1,14 @@
+# Draft and scratch files
+
+*1.py
+*2.py
+*3.py
+-notes.md
+*_notes.m
+
+#System files
+
+.DS_Store
+pycache/
+*.pyc
+

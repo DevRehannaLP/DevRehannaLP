@@ -29,4 +29,3 @@ A Python automation tool that sorts files into catergorized folders automaticall
 DevSecOps Engineer in training. Ex-Military. Lifelong computer lover.  Building real tools, learning every day, and working toward a career securing and automating the systems that matter.
 
 📎 [GitHub](https://github.com/DevRehannaLP)
-

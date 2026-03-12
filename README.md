@@ -35,11 +35,13 @@ I've grew up ever since with a computer in my home and that love never stopped. 
 ## `./skills.sh`
 
 ```
+
 Languages     →  Python · Bash
 Platforms     →  Linux (WSL Ubuntu) · Windows
 Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit
 Practices     →  Scripting · Automation · System Organization
 Currently     →  Building portfolio projects · Deepening Linux/Bash
+
 ```
 
 ---
@@ -59,11 +61,13 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 ## `cat ./mindset.txt`
 
 ```
+
 > Veteran Mindset — Mission first, figure it out, don't quit
 > Systems Thinker — I don't just use tools, I understand them
 > Builder — If something doesn't exist and it should, I make it
 > Security-First — Always asking "what could go wrong?"
 > Hands-on Learner — I type every line of code. No copy-paste.
+
 ```
 
 ---
@@ -99,8 +103,9 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 ## `./connect.sh`
 
 ```bash
+
 $ echo "Let's build something."
-```
+
 ```
 
 ->  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  <-
@@ -114,11 +119,9 @@ $ echo "Let's build something."
 *"Computers have always made sense to me in a way few other things do."*
 
 ```
+
 ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
+
 ```
 
 </div>
-
-
-
-

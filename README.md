@@ -3,14 +3,9 @@
 # ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
 
 </div>
-
----
-
 <div align="center">
 
 # Rehanna — DevSecOps Engineer in Training
-
----
 
 **Building. Securing. Automating. One system at a time.**
 
@@ -118,6 +113,7 @@ $ echo "Let's build something."
 ```
 
 </div>
+
 
 
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-# ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ #
+∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
 ```
 
 </div>
@@ -114,8 +114,9 @@ $ echo "Let's build something."
 *"Computers have always made sense to me in a way few other things do."*
 
 ```
-# ∞ ☬DevRehannaLP☬ | DevSecOps ∞ #
+∞ ☬DevRehannaLP☬ | DevSecOps ∞
 ```
 
 </div>
+
 

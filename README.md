@@ -1,33 +1,118 @@
-# DevRehannaLP - Active Projects
+<div align="center">
 
-A collection of real-world tools built while training as a DevSecOps Engineer.  Every project here was built from scratch, typed by hand, debugged and deployed.
+```
+∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
+```
 
-## Projects
+</div>
 
-### 🔍 Log Analyzer
-A Python security tool that reads system log files, detects threats, and generates automated reports.
-- Detects CRITICAL, ERROR, and WARNING events
-- Flags brute force attacks, SQL injection, unauthorized access
-- Auto-generates a saved report file
-- **Tech:** Python 3
+---
 
-###  🔐 Password Strength Checkera
-A Python tool that analyzes password strength and scores it based on length, complexity, and character variety.
-- Hidden password input using getpass module
-- Scoring system with feedback
-- Multiple version developed and improved
-- **Tech:** Python 3
+<div align="center">
 
-### 🗃️ File Organizer
-A Python automation tool that sorts files into catergorized folders automatically by file extension.
-- Uses os and shutil modules
-- Saves hours of manual file sorting
-- **Tech:** Python 3
+# Rehanna — DevSecOps Engineer in Training
 
-## About Me
+**Building. Securing. Automating. One system at a time.**
 
-DevSecOps Engineer in training. Ex-Military. Lifelong computer lover.  Building real tools, learning every day, and working toward a career securing and automating the systems that matter.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devrehannalp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrehannalp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rlpdevsecops-black?style=for-the-badge&logo=vercel&logoColor=gold)](https://soloist.ai/rlpdevsecops)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-DevRehannaLP-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DevRehannaLP)
 
-📎 [GitHub](https://github.com/DevRehannaLP)
+</div>
 
-\# ∞ ☬DevRehannaLP☬ | DevSecOps ∞ #
+---
+
+## `whoami`
+
+```bash
+$ whoami
+> US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
+```
+
+I've loved computers since my dad handed me a Dell with a CD-ROM drive back in the late 80s.
+That love never left. Now I'm turning it into a career — building tools, automating systems,
+and weaving security into everything I touch.
+
+**DevSecOps isn't just what I'm learning. It's how I already think.**
+
+---
+
+## `./skills.sh`
+
+```
+Languages     →  Python · Bash
+Platforms     →  Linux (WSL Ubuntu) · Windows
+Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit
+Practices     →  Scripting · Automation · System Organization
+Currently     →  Building portfolio projects · Deepening Linux/Bash
+```
+
+---
+
+## `ls -la ./projects`
+
+| Project | What It Does | Stack |
+|---|---|---|
+| 🔐 **Password Strength Checker** | Scores password strength with hidden input | Python |
+| 📋 **Security Log Analyzer** | Parses logs, categorizes severity, saves reports | Python |
+| 🗂️ **File Organizer** | Auto-sorts files into folders by extension | Python |
+| 💻 **Sysinfo Tool** | Displays live system info in terminal | Bash |
+| ✍️ **Signature Tool** | Personal brand display with Unicode + ANSI color | Bash |
+
+---
+
+## `cat ./mindset.txt`
+
+```
+> Veteran mindset — mission first, figure it out, don't quit
+> Systems thinker — I don't just use tools, I understand them
+> Builder — if something doesn't exist and it should, I make it
+> Security-first — always asking "what could go wrong?"
+> Hands-on learner — I type every line of code. No copy-paste.
+```
+
+---
+
+## `./tryhackme_stats.sh`
+
+<div align="center">
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DevRehannaLP.png)](https://tryhackme.com/p/DevRehannaLP)
+
+</div>
+
+---
+
+## `./github_stats.sh`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevRehannaLP&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRehannaLP&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d1117)
+
+</div>
+
+---
+
+## `./connect.sh`
+
+```bash
+$ echo "Let's build something."
+
+→  LinkedIn  :  linkedin.com/in/devrehannalp
+→  Portfolio :  soloist.ai/rlpdevsecops
+→  TryHackMe :  tryhackme.com/p/DevRehannaLP
+```
+
+---
+
+<div align="center">
+
+*"Computers have always made sense to me in a way few other things do."*
+
+```
+# ∞ ☬DevRehannaLP☬ | DevSecOps ∞ #
+```
+
+</div>

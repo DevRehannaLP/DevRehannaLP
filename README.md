@@ -100,13 +100,12 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 ```bash
 $ echo "Let's build something."
-
+```
+```
 
 ->  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  <-
 ->  [Portfolio](https://soloist.ai/rlpdevsecops)  <-
 ->  [TryHackMe](https://tryhackme.com/p/DevRehannaLP)  <-
-
-```
 
 ---
 

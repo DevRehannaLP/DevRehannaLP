@@ -4,8 +4,6 @@
 
 ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
 
----
-
 </div>
 
 ---
@@ -120,6 +118,7 @@ $ echo "Let's build something."
 ```
 
 </div>
+
 
 
 

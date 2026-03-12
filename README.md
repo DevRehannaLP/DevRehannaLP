@@ -12,6 +12,8 @@
 
 # Rehanna — DevSecOps Engineer in Training
 
+---
+
 **Building. Securing. Automating. One system at a time.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devrehannalp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrehannalp/)
@@ -118,6 +120,7 @@ $ echo "Let's build something."
 ```
 
 </div>
+
 
 
 

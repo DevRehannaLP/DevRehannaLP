@@ -20,12 +20,10 @@
 
 ## `whoami`
 
-```bash
-$ whoami
+$ whoami  
 > US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
-```
 
-I've loved computers since my dad gifted me a Dell desktop with a CD-ROM drive back in the late 80s.
+I've loved computers since my dad gifted me a Dell desktop with a CD-ROM drive back in the late 80s.  
 I've grew up ever since with a computer in my home and that love never stopped. Now I'm turning it into a career — building tools, automating systems, and weaving security into everything I touch.
 
 **DevSecOps isn't just what I'm learning. It's how I already think.**
@@ -34,15 +32,11 @@ I've grew up ever since with a computer in my home and that love never stopped. 
 
 ## `./skills.sh`
 
-```
-
-Languages     →  Python · Bash
-Platforms     →  Linux (WSL Ubuntu) · Windows
-Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit
-Practices     →  Scripting · Automation · System Organization
-Currently     →  Building portfolio projects · Deepening Linux/Bash
-
-```
+Languages     →  Python · Bash  
+Platforms     →  Linux (WSL Ubuntu) · Windows  
+Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit  
+Practices     →  Scripting · Automation · System Organization  
+Currently     →  Building portfolio projects · Deepening Linux/Bash  
 
 ---
 
@@ -60,15 +54,11 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 ## `cat ./mindset.txt`
 
-```
-
-> Veteran Mindset — Mission first, figure it out, don't quit
-> Systems Thinker — I don't just use tools, I understand them
-> Builder — If something doesn't exist and it should, I make it
-> Security-First — Always asking "what could go wrong?"
-> Hands-on Learner — I type every line of code. No copy-paste.
-
-```
+> Veteran Mindset — Mission first, figure it out, don't quit  
+> Systems Thinker — I don't just use tools, I understand them  
+> Builder — If something doesn't exist and it should, I make it  
+> Security-First — Always asking "what could go wrong?"  
+> Hands-on Learner — I type every line of code. No copy-paste.  
 
 ---
 
@@ -80,13 +70,17 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 </div>
 
-## `./roadmsp.sh`
+---
+
+## `./roadmap.sh`
 
 <div align="center">
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=devsecops%2Cpython%2Cdevops%2Ccyber-security)](https://roadmap.sh)
 
 </div>
+
+---
 
 ## `./github_stats.sh`
 
@@ -102,15 +96,11 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 ## `./connect.sh`
 
-```bash
-
 $ echo "Let's build something."
 
-```
-
-->  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  <-
-->  [Portfolio](https://soloist.ai/rlpdevsecops)  <-
-->  [TryHackMe](https://tryhackme.com/p/DevRehannaLP)  <-
+→  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  ←  
+→  [Portfolio](https://soloist.ai/rlpdevsecops)  ←  
+→  [TryHackMe](https://tryhackme.com/p/DevRehannaLP)  ←  
 
 ---
 
@@ -118,10 +108,6 @@ $ echo "Let's build something."
 
 *"Computers have always made sense to me in a way few other things do."*
 
-```
-
 ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
-
-```
 
 </div>

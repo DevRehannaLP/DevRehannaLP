@@ -81,6 +81,8 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 </div>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=devsecops%2Cpython%2Cdevops%2Ccyber-security)](https://roadmap.sh)
+
 ---
 
 ## `./github_stats.sh`

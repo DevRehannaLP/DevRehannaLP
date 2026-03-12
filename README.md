@@ -84,8 +84,6 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 </div>
 
----
-
 ## `./github_stats.sh`
 
 <div align="center">
@@ -120,6 +118,7 @@ $ echo "Let's build something."
 ```
 
 </div>
+
 
 
 

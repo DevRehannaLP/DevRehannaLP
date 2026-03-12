@@ -102,9 +102,9 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 $ echo "Let's build something."
 
 
-->  [LinkedIn](https://www.linkedin.com/in/devrehannalp)  <-
-->  [Portfolio](https://www.soloist.ai/rlpdevsecops)  <-
-->  [TryHackMe](https://www.tryhackme.com/p/DevRehannaLP)  <-
+->  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  <-
+->  [Portfolio](https://soloist.ai/rlpdevsecops)  <-
+->  [TryHackMe](https://tryhackme.com/p/DevRehannaLP)  <-
 
 ```
 

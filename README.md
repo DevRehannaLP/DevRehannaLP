@@ -29,9 +29,8 @@ $ whoami
 > US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
 ```
 
-I've loved computers since my dad handed me a Dell with a CD-ROM drive back in the late 80s.
-That love never left. Now I'm turning it into a career — building tools, automating systems,
-and weaving security into everything I touch.
+I've loved computers since my dad gifted me a Dell desktop with a CD-ROM drive back in the late 80s.
+I've grew up ever since with a computer in my home and that love never stopped. Now I'm turning it into a career — building tools, automating systems, and weaving security into everything I touch.
 
 **DevSecOps isn't just what I'm learning. It's how I already think.**
 
@@ -64,11 +63,11 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 ## `cat ./mindset.txt`
 
 ```
-> Veteran mindset — mission first, figure it out, don't quit
-> Systems thinker — I don't just use tools, I understand them
-> Builder — if something doesn't exist and it should, I make it
-> Security-first — always asking "what could go wrong?"
-> Hands-on learner — I type every line of code. No copy-paste.
+> Veteran Mindset — Mission first, figure it out, don't quit
+> Systems Thinker — I don't just use tools, I understand them
+> Builder — If something doesn't exist and it should, I make it
+> Security-First — Always asking "what could go wrong?"
+> Hands-on Learner — I type every line of code. No copy-paste.
 ```
 
 ---
@@ -79,9 +78,9 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DevRehannaLP.png)](https://tryhackme.com/p/DevRehannaLP)
 
-</div>
-
 [![roadmap.sh](https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=devsecops%2Cpython%2Cdevops%2Ccyber-security)](https://roadmap.sh)
+
+</div>
 
 ---
 
@@ -102,9 +101,11 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 ```bash
 $ echo "Let's build something."
 
-→  LinkedIn  :  linkedin.com/in/devrehannalp
-→  Portfolio :  soloist.ai/rlpdevsecops
-→  TryHackMe :  tryhackme.com/p/DevRehannaLP
+<div align="center">
+->  [LinkedIn](linkedin.com/in/devrehannalp)  <-
+->  [Portfolio](soloist.ai/rlpdevsecops)  <-
+->  [TryHackMe](tryhackme.com/p/DevRehannaLP)  <-
+</div>
 ```
 
 ---
@@ -114,9 +115,7 @@ $ echo "Let's build something."
 *"Computers have always made sense to me in a way few other things do."*
 
 ```
-∞ ☬DevRehannaLP☬ | DevSecOps ∞
+∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
 ```
 
 </div>
-
-

@@ -6,9 +6,15 @@
 
 <div align="center">
 
+<<<<<<< HEAD
 # Rehanna — DevSecOps Engineer in Training
 
 **Building. Securing. Automating. One system at a time.**
+=======
+# Rehanna — DevSecOps Engineer In Training
+
+**Building. Securing. Automating. One system at a time.**
+>>>>>>> 6f4c340 (Polish profile README)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devrehannalp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrehannalp/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rlpdevsecops-black?style=for-the-badge&logo=vercel&logoColor=gold)](https://soloist.ai/rlpdevsecops)
@@ -20,6 +26,7 @@
 
 ## `whoami`
 
+<<<<<<< HEAD
 $ whoami  
 > US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
 
@@ -27,16 +34,33 @@ I've loved computers since my dad gifted me a Dell desktop with a CD-ROM drive b
 I've grew up ever since with a computer in my home and that love never stopped. Now I'm turning it into a career — building tools, automating systems, and weaving security into everything I touch.
 
 **DevSecOps isn't just what I'm learning. It's how I already think.**
+=======
+$ whoami
+> US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
+
+I've loved computers since my dad gave me a Dell desktop with a CD-ROM drive in the late 80s.
+That love never left. Now I'm turning it into a career by building tools, automating systems, and weaving security into everything I touch.
+
+**DevSecOps isn't just what I'm learning. It's how I already think.**
+>>>>>>> 6f4c340 (Polish profile README)
 
 ---
 
 ## `./skills.sh`
 
+<<<<<<< HEAD
 Languages     →  Python · Bash  
 Platforms     →  Linux (WSL Ubuntu) · Windows  
 Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit  
 Practices     →  Scripting · Automation · System Organization  
 Currently     →  Building portfolio projects · Deepening Linux/Bash  
+=======
+Languages     →  Python · Bash
+Platforms     →  Linux (WSL Ubuntu) · Windows
+Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit
+Practices     →  Scripting · Automation · System Organization
+Currently     →  Building portfolio projects · Deepening Linux and Bash
+>>>>>>> 6f4c340 (Polish profile README)
 
 ---
 
@@ -54,11 +78,19 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 ## `cat ./mindset.txt`
 
+<<<<<<< HEAD
 > Veteran Mindset — Mission first, figure it out, don't quit  
 > Systems Thinker — I don't just use tools, I understand them  
 > Builder — If something doesn't exist and it should, I make it  
 > Security-First — Always asking "what could go wrong?"  
 > Hands-on Learner — I type every line of code. No copy-paste.  
+=======
+> Veteran mindset — mission first, figure it out, don't quit
+> Systems thinker — I don't just use tools, I understand them
+> Builder — if something should exist and doesn't, I make it
+> Security-first — always asking "what could go wrong?"
+> Hands-on learner — I type every line of code. No copy-paste.
+>>>>>>> 6f4c340 (Polish profile README)
 
 ---
 
@@ -98,9 +130,9 @@ Currently     →  Building portfolio projects · Deepening Linux/Bash
 
 $ echo "Let's build something."
 
-→  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  ←  
-→  [Portfolio](https://soloist.ai/rlpdevsecops)  ←  
-→  [TryHackMe](https://tryhackme.com/p/DevRehannaLP)  ←  
+→ [LinkedIn](https://www.linkedin.com/in/devrehannalp/)
+→ [Portfolio](https://soloist.ai/rlpdevsecops)
+→ [TryHackMe](https://tryhackme.com/p/DevRehannaLP)
 
 ---
 
@@ -109,5 +141,3 @@ $ echo "Let's build something."
 *"Computers have always made sense to me in a way few other things do."*
 
 ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
-
-</div>

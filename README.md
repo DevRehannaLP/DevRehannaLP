@@ -1,119 +1,57 @@
-<div align="center">
+# 07 Active Projects
 
-```
-∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
-```
+This folder holds my current active projects and portfolio-ready build work.
 
-</div>
+It is where stronger ideas move once they are beyond rough practice and worth developing, refining, documenting, and possibly sharing publicly.
 
-<div align="center">
+## Purpose
 
-<# Rehanna — DevSecOps Engineer in Training
+This folder exists to:
 
-**Building. Securing. Automating. One system at a time.**
+- keep active projects organized in one place
+- separate polished work from rough practice code
+- support portfolio development
+- make it easy to find current projects and their supporting files
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devrehannalp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrehannalp/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rlpdevsecops-black?style=for-the-badge&logo=vercel&logoColor=gold)](https://soloist.ai/rlpdevsecops)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-DevRehannaLP-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DevRehannaLP)
+## What Belongs Here
 
-</div>
+- active coding projects
+- portfolio-ready or portfolio-bound projects
+- project-specific notes
+- project README files
+- supporting files directly tied to current project work
 
----
+## What Does Not Belong Here
 
-## `whoami`
+- rough experiments that belong in `08_codes`
+- general reference notes that belong in `09_guides`
+- inactive or abandoned projects that belong in `06_archive`
+- personal environment setup files that belong in `05_personal_os_rebuild`
 
-```bash
-$ whoami
-> US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
-```
+## Important Subfolders
 
-I've loved computers since my dad gifted me a Dell desktop with a CD-ROM drive back in the late 80s.
-I've grew up ever since with a computer in my home and that love never stopped. Now I'm turning it into a career — building tools, automating systems, and weaving security into everything I touch.
+- `1_projects/` - current active project collection
+- individual project folders inside `1_projects/` - each project should contain its own code and notes
 
-**DevSecOps isn't just what I'm learning. It's how I already think.**
+## Status
 
----
+Active
 
-## `./skills.sh`
+This folder is part of my current working system and contains project work that is stronger, cleaner, and more developed than basic practice code.
 
-```
-Languages     →  Python · Bash
-Platforms     →  Linux (WSL Ubuntu) · Windows
-Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit
-Practices     →  Scripting · Automation · System Organization
-Currently     →  Building portfolio projects · Deepening Linux/Bash
-```
+## Open This First
 
----
+If I am looking for active build work, start with:
 
-## `ls -la ./projects`
+`1_projects/`
 
-| Project | What It Does | Stack |
-|---|---|---|
-| 🔐 **Password Strength Checker** | Scores password strength with hidden input | Python |
-| 📋 **Security Log Analyzer** | Parses logs, categorizes severity, saves reports | Python |
-| 🗂️ **File Organizer** | Auto-sorts files into folders by extension | Python |
-| 💻 **Sysinfo Tool** | Displays live system info in terminal | Bash |
-| ✍️ **Signature Tool** | Personal brand display with Unicode + ANSI color | Bash |
+Then open the specific project folder I want to work on.
 
----
+## Notes
 
-## `cat ./mindset.txt`
+- Projects here should be meaningful, organized, and worth continuing.
+- If a project is still messy and exploratory, it may belong in `08_codes` until it is ready.
+- If a project is no longer active, move it to `06_archive`.
+- Each project should eventually have clear notes or its own README when needed.
 
-```
-> Veteran Mindset — Mission first, figure it out, don't quit
-> Systems Thinker — I don't just use tools, I understand them
-> Builder — If something doesn't exist and it should, I make it
-> Security-First — Always asking "what could go wrong?"
-> Hands-on Learner — I type every line of code. No copy-paste.
-```
-
----
-
-## `./tryhackme_stats.sh`
-
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DevRehannaLP.png)](https://tryhackme.com/p/DevRehannaLP)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=devsecops%2Cpython%2Cdevops%2Ccyber-security)](https://roadmap.sh)
-
-</div>
-
----
-
-## `./github_stats.sh`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevRehannaLP&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRehannaLP&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
----
-
-## `./connect.sh`
-
-```bash
-$ echo "Let's build something."
-```
-
-->  [LinkedIn](https://www.linkedin.com/in/devrehannalp/)  <-
-->  [Portfolio](https://soloist.ai/rlpdevsecops)  <-
-->  [TryHackMe](https://tryhackme.com/p/DevRehannaLP)  <-
-
-<div align="center">
-
-*"Computers have always made sense to me in a way few other things do."*
-
-</div>
-
-
-```
-
-∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
-
-```
-
+∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 20261603 1733

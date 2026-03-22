@@ -1,3 +1,4 @@
+# ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 20261603 1739
 import socket
 
 def scan_port(host, port):

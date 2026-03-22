@@ -1,3 +1,4 @@
+# ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 20261603 1739
 # We’re going to add a function.
 # Not a big scary one — just a small piece that turns your file from “a script that prints” into “a script that does something on command.”
 # This is the moment where your project stops being a toy and starts being actual code.

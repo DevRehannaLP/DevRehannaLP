@@ -34,3 +34,4 @@ Prints a formatted report to the terminal and saves it as 'log_report.txt'
 
 DevRehannaLP -- DevSecOps Engineer in Training
 
+∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 20261603 1733

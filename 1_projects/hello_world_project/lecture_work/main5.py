@@ -1,3 +1,4 @@
+# ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 20261603 1739
 # This is the smoothest next step, and it builds your skills without throwing anything heavy at you.
 
 # Right now you have:

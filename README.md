@@ -1,57 +1,94 @@
-# 07 Active Projects
+# ∞ ☬ DevRehannaLP ☬ ∞
 
-This folder holds my current active projects and portfolio-ready build work.
+```bash
+$ whoami
+> DevSecOps Engineer in Training | Ex-Military | Lifelong Computer Lover
+```
 
-It is where stronger ideas move once they are beyond rough practice and worth developing, refining, documenting, and possibly sharing publicly.
+---
 
-## Purpose
+## 👾 About Me
 
-This folder exists to:
+I've loved computers since my dad put a Dell with a CD-ROM in front of me in the late '80s.
+That was it. I was done. Hooked for life.
 
-- keep active projects organized in one place
-- separate polished work from rough practice code
-- support portfolio development
-- make it easy to find current projects and their supporting files
+I'm a **veteran** turned **DevSecOps engineer-in-training** — combining a military security mindset
+with a genuine obsession for building and automating things that actually help people.
 
-## What Belongs Here
+Currently working toward **CompTIA Linux+** and building a portfolio that proves the work,
+not just talks about it.
 
-- active coding projects
-- portfolio-ready or portfolio-bound projects
-- project-specific notes
-- project README files
-- supporting files directly tied to current project work
+---
 
-## What Does Not Belong Here
+## 🛠️ What I'm Working With
 
-- rough experiments that belong in `08_codes`
-- general reference notes that belong in `09_guides`
-- inactive or abandoned projects that belong in `06_archive`
-- personal environment setup files that belong in `05_personal_os_rebuild`
+**Shell & Scripting**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Important Subfolders
+**Environment**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_WSL-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- `1_projects/` - current active project collection
-- individual project folders inside `1_projects/` - each project should contain its own code and notes
+**Learning Next**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Status
+---
 
-Active
+## 📁 Active Projects
 
-This folder is part of my current working system and contains project work that is stronger, cleaner, and more developed than basic practice code.
+| Project | What It Does |
+|---|---|
+| [password_strength_checker](https://github.com/DevRehannaLP/7_active_projects) | Python tool that scores password strength — built with functions, loops, scoring logic, and hidden input |
+| [file_organizer](https://github.com/DevRehannaLP/7_active_projects) | Auto-sorts files into folders by extension using `os` and `shutil` |
+| [sysinfo_bash](https://github.com/DevRehannaLP/7_active_projects) | Bash script: user, hostname, OS, memory, disk, uptime — all in one clean output |
+| [network_scanner](https://github.com/DevRehannaLP/7_active_projects) | Python network scanner — because I like knowing what's on my network |
+| [system_info_tool](https://github.com/DevRehannaLP/7_active_projects) | Python-based system info tool |
+| [log_analyzer](https://github.com/DevRehannaLP/7_active_projects) | Log analysis script — troubleshooting is a skill, not a guess |
 
-## Open This First
+---
 
-If I am looking for active build work, start with:
+## 🎯 Current Mission
 
-`1_projects/`
+```
+[▓▓▓▓▓▓▓░░░░░░░░░░░░] CompTIA Linux+ XK0-006 — Week 1/6
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░] Bash Scripting — Intermediate
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░] Python Automation — Intermediate
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] Linux/WSL Daily Use — Advanced
+[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] Git & GitHub — Growing
+```
 
-Then open the specific project folder I want to work on.
+**Roadmap:** Linux+ → Security+ → Docker → Cloud → CI/CD → DevSecOps Engineer ✅
 
-## Notes
+---
 
-- Projects here should be meaningful, organized, and worth continuing.
-- If a project is still messy and exploratory, it may belong in `08_codes` until it is ready.
-- If a project is no longer active, move it to `06_archive`.
-- Each project should eventually have clear notes or its own README when needed.
+## 🧠 How I Think
 
-∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 20261603 1733
+- Systems thinker — I see how the pieces connect before I write a single line
+- Military background — I don't panic under pressure, I debug under pressure
+- Builder mentality — if I can automate it, I will
+- I want to build things that visibly help real people — that's the whole point
+
+---
+
+## 📊 GitHub Stats
+
+![DevRehannaLP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevRehannaLP&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4EAA25&icon_color=4EAA25&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRehannaLP&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4EAA25&text_color=c9d1d9)
+
+---
+
+## 📬 Let's Connect
+
+I'm actively building, learning, and looking for my first junior DevSecOps or Linux admin role.
+
+If you're building something that matters — I'd love to be part of it.
+
+---
+
+*∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 2026 ∞ ☬ DevRehannaLP ☬ ∞*

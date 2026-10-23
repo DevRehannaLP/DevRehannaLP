@@ -1,143 +1,94 @@
-<div align="center">
+# ∞ ☬ DevRehannaLP ☬ ∞
 
-# ∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
-
-</div>
-
-<div align="center">
-
-<<<<<<< HEAD
-# Rehanna — DevSecOps Engineer in Training
-
-**Building. Securing. Automating. One system at a time.**
-=======
-# Rehanna — DevSecOps Engineer In Training
-
-**Building. Securing. Automating. One system at a time.**
->>>>>>> 6f4c340 (Polish profile README)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devrehannalp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrehannalp/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rlpdevsecops-black?style=for-the-badge&logo=vercel&logoColor=gold)](https://soloist.ai/rlpdevsecops)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-DevRehannaLP-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DevRehannaLP)
-
-</div>
-
----
-
-## `whoami`
-
-<<<<<<< HEAD
-$ whoami  
-> US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
-
-I've loved computers since my dad gifted me a Dell desktop with a CD-ROM drive back in the late 80s.  
-I've grew up ever since with a computer in my home and that love never stopped. Now I'm turning it into a career — building tools, automating systems, and weaving security into everything I touch.
-
-**DevSecOps isn't just what I'm learning. It's how I already think.**
-=======
+```bash
 $ whoami
-> US Army Veteran | DevSecOps Engineer in Training | Lifelong Computer Lover
-
-I've loved computers since my dad gave me a Dell desktop with a CD-ROM drive in the late 80s.
-That love never left. Now I'm turning it into a career by building tools, automating systems, and weaving security into everything I touch.
-
-**DevSecOps isn't just what I'm learning. It's how I already think.**
->>>>>>> 6f4c340 (Polish profile README)
+> DevSecOps Engineer in Training | Ex-Military | Lifelong Computer Lover
+```
 
 ---
 
-## `./skills.sh`
+## 👾 About Me
 
-<<<<<<< HEAD
-Languages     →  Python · Bash  
-Platforms     →  Linux (WSL Ubuntu) · Windows  
-Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit  
-Practices     →  Scripting · Automation · System Organization  
-Currently     →  Building portfolio projects · Deepening Linux/Bash  
-=======
-Languages     →  Python · Bash
-Platforms     →  Linux (WSL Ubuntu) · Windows
-Tools         →  Git · GitHub · Neovim (LazyVim) · Lazygit
-Practices     →  Scripting · Automation · System Organization
-Currently     →  Building portfolio projects · Deepening Linux and Bash
->>>>>>> 6f4c340 (Polish profile README)
+I've loved computers since my dad put a Dell with a CD-ROM in front of me in the late '80s.
+That was it. I was done. Hooked for life.
+
+I'm a **veteran** turned **DevSecOps engineer-in-training** — combining a military security mindset
+with a genuine obsession for building and automating things that actually help people.
+
+Currently working toward **CompTIA Linux+** and building a portfolio that proves the work,
+not just talks about it.
 
 ---
 
-## `ls -la ./projects`
+## 🛠️ What I'm Working With
 
-| Project | What It Does | Stack |
-|---|---|---|
-| 🔐 **Password Strength Checker** | Scores password strength with hidden input | Python |
-| 📋 **Security Log Analyzer** | Parses logs, categorizes severity, saves reports | Python |
-| 🗂️ **File Organizer** | Auto-sorts files into folders by extension | Python |
-| 💻 **Sysinfo Tool** | Displays live system info in terminal | Bash |
-| ✍️ **Signature Tool** | Personal brand display with Unicode + ANSI color | Bash |
+**Shell & Scripting**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+**Environment**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_WSL-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## `cat ./mindset.txt`
-
-<<<<<<< HEAD
-> Veteran Mindset — Mission first, figure it out, don't quit  
-> Systems Thinker — I don't just use tools, I understand them  
-> Builder — If something doesn't exist and it should, I make it  
-> Security-First — Always asking "what could go wrong?"  
-> Hands-on Learner — I type every line of code. No copy-paste.  
-=======
-> Veteran mindset — mission first, figure it out, don't quit
-> Systems thinker — I don't just use tools, I understand them
-> Builder — if something should exist and doesn't, I make it
-> Security-first — always asking "what could go wrong?"
-> Hands-on learner — I type every line of code. No copy-paste.
->>>>>>> 6f4c340 (Polish profile README)
+**Learning Next**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## `./tryhackme_stats.sh`
+## 📁 Active Projects
 
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DevRehannaLP.png)](https://tryhackme.com/p/DevRehannaLP)
-
-</div>
-
----
-
-## `./roadmap.sh`
-
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=devsecops%2Cpython%2Cdevops%2Ccyber-security)](https://roadmap.sh)
-
-</div>
+| Project                                                                        | What It Does                                                                                             |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [password_strength_checker](https://github.com/DevRehannaLP/7_active_projects) | Python tool that scores password strength — built with functions, loops, scoring logic, and hidden input |
+| [file_organizer](https://github.com/DevRehannaLP/7_active_projects)            | Auto-sorts files into folders by extension using `os` and `shutil`                                       |
+| [sysinfo_bash](https://github.com/DevRehannaLP/7_active_projects)              | Bash script: user, hostname, OS, memory, disk, uptime — all in one clean output                          |
+| [network_scanner](https://github.com/DevRehannaLP/7_active_projects)           | Python network scanner — because I like knowing what's on my network                                     |
+| [system_info_tool](https://github.com/DevRehannaLP/7_active_projects)          | Python-based system info tool                                                                            |
+| [log_analyzer](https://github.com/DevRehannaLP/7_active_projects)              | Log analysis script — troubleshooting is a skill, not a guess                                            |
 
 ---
 
-## `./github_stats.sh`
+## 🎯 Current Mission
 
-<div align="center">
+```
+[▓▓▓▓▓▓▓░░░░░░░░░░░░] CompTIA Linux+ XK0-006 — Week 1/6
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░] Bash Scripting — Intermediate
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░] Python Automation — Intermediate
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] Linux/WSL Daily Use — Advanced
+[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] Git & GitHub — Growing
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevRehannaLP&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRehannaLP&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
----
-
-## `./connect.sh`
-
-$ echo "Let's build something."
-
-→ [LinkedIn](https://www.linkedin.com/in/devrehannalp/)
-→ [Portfolio](https://soloist.ai/rlpdevsecops)
-→ [TryHackMe](https://tryhackme.com/p/DevRehannaLP)
+**Roadmap:** Linux+ → Security+ → Docker → Cloud → CI/CD → DevSecOps Engineer ✅
 
 ---
 
-<div align="center">
+## 🧠 How I Think
 
-*"Computers have always made sense to me in a way few other things do."*
+- Systems thinker — I see how the pieces connect before I write a single line
+- Military background — I don't panic under pressure, I debug under pressure
+- Builder mentality — if I can automate it, I will
+- I want to build things that visibly help real people — that's the whole point
 
-∞ ☬ DevRehannaLP ☬ | DevSecOps ∞
+---
+
+## 📊 GitHub Stats
+
+![DevRehannaLP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevRehannaLP&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4EAA25&icon_color=4EAA25&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRehannaLP&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4EAA25&text_color=c9d1d9)
+
+---
+
+## 📬 Let's Connect
+
+I'm actively building, learning, and looking for my first junior DevSecOps or Linux admin role.
+
+If you're building something that matters — I'd love to be part of it.
+
+---
+
+_∞ ☬ DevRehannaLP ☬ | DevSecOps ∞ 2026 ∞ ☬ DevRehannaLP ☬ ∞_
